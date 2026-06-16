@@ -1,2 +1,28 @@
-# 7df94a83-barbershop-management-standard
-Stop losing clients to inconsistent service and chaotic scheduling. Your barbershop's success depends on a repeatable system, not just talent.  This Barbershop Management Standard Operating Procedures Library Notion Template gives you a centralized, editable hub to document every cut, shave, and shop routine so every barber performs at their best.
+# Barbershop Management Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq6oHfXx7Eof44avOd0k06)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq6oHfXx7Eof44avOd0k06)
+
